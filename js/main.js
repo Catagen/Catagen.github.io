@@ -1,4 +1,4 @@
-$(window).ready(function() {
+$(window).on('load', function() {
   $('.loadpage').fadeOut(1800);
   console.log("ready");
 });
