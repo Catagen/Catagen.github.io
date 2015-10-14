@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).load(function() {
   $('.loadpage').fadeOut(1800);
   $('cat').click(function() {
     var id = $(this).attr('opens');
