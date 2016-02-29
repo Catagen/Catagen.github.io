@@ -10,7 +10,7 @@ $(document).ready(function() {
 
 				//Scrolling
 				css3: true,
-				scrollingSpeed: 700,
+				scrollingSpeed: 800,
 				autoScrolling: true,
 				fitToSection: true,
 				scrollBar: false,
